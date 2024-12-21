@@ -23,6 +23,7 @@ Monitor: 13-inch color monitor
 CPU Speed: 2 GHz or faster
 Architecture: 32-bit or 64-bit
 ## Software Requirements
+
 Operating System: Windows 7, Windows 8, Windows 10
 Internet: Wi-Fi or data card
 Browser: Google Chrome (latest version)
@@ -31,7 +32,7 @@ IDE: Jupyter Notebook
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+!![architecture](https://github.com/user-attachments/assets/faba53c9-4111-4fc2-996d-60d5c6a1b51f)
 
 
 ## Output
