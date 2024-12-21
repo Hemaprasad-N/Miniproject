@@ -23,15 +23,23 @@ Implements linear regression techniques for accurate predictions.
 
 Processor: Intel Dual Core or higher
 RAM: Minimum 512 MB
+
 Storage: 400 GB hard disk capacity
+
 Monitor: 13-inch color monitor
+
 CPU Speed: 2 GHz or faster
+
 Architecture: 32-bit or 64-bit
+
 ## Software Requirements
 
 Operating System: Windows 7, Windows 8, Windows 10
+
 Internet: Wi-Fi or data card
+
 Browser: Google Chrome (latest version)
+
 IDE: Jupyter Notebook
 
 ## System Architecture
@@ -64,7 +72,8 @@ This project serves as a foundation for future developments in assistive technol
 
 ## Articles published / References
 1. S. Patel, A. Mishra, and P. Gupta, “Real Estate Valuation Using Machine Learning Techniques,” Int. J. Data Sci., vol. 12, pp. 234-245, 2023.
-2. B. Sharma and K. Kumar, “Application of Regression in Predictive Analytics for Land Pricing,” Proc. Natl. Conf. AI, vol. 5, 2022.
+2. 
+3. B. Sharma and K. Kumar, “Application of Regression in Predictive Analytics for Land Pricing,” Proc. Natl. Conf. AI, vol. 5, 2022.
 
 
 
