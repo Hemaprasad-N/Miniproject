@@ -7,11 +7,11 @@ The Land Price Prediction System employs machine learning techniques to analyze 
 
 ## Features
 <!--List the features of the project as shown below-->
--Implements linear regression techniques for accurate predictions.
--Supports preprocessing tasks such as handling missing data and feature engineering.
--Enables data visualization for better analysis and insights.
--Easily extensible with additional features for enhanced accuracy.
--User-friendly interface powered by Gradio, with future scope for web-based integration.
+*Implements linear regression techniques for accurate predictions.
+*Supports preprocessing tasks such as handling missing data and feature engineering.
+*Enables data visualization for better analysis and insights.
+*Easily extensible with additional features for enhanced accuracy.
+*User-friendly interface powered by Gradio, with future scope for web-based integration.
 ## Requirements
 <!--List the requirements of the project as shown below-->
 ## Hardware Requirements
