@@ -1,28 +1,32 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
-
+Land Price Prediction Using Machine Learning
+A machine learning-based model designed to predict land prices using historical data, aiding buyers, investors, and developers in making informed decisions regarding real estate investments.
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The Land Price Prediction System employs machine learning techniques to analyze and predict the prices of land based on various factors. With regression models at its core, the system leverages historical datasets containing key attributes such as land area, proximity to cities, soil fertility, water availability, weather conditions, and year of purchase. This project is particularly valuable for buyers and investors who seek a realistic evaluation of land prices, as well as for developers aiming to optimize pricing strategies.
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
-
+-Implements linear regression techniques for accurate predictions.
+-Supports preprocessing tasks such as handling missing data and feature engineering.
+-Enables data visualization for better analysis and insights.
+-Easily extensible with additional features for enhanced accuracy.
+-User-friendly interface powered by Gradio, with future scope for web-based integration.
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+## Hardware Requirements
+
+Processor: Intel Dual Core or higher
+RAM: Minimum 512 MB
+Storage: 400 GB hard disk capacity
+Monitor: 13-inch color monitor
+CPU Speed: 2 GHz or faster
+Architecture: 32-bit or 64-bit
+## Software Requirements
+Operating System: Windows 7, Windows 8, Windows 10
+Internet: Wi-Fi or data card
+Browser: Google Chrome (latest version)
+IDE: Jupyter Notebook
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
@@ -33,26 +37,32 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![Screenshot (21)fi](https://github.com/user-attachments/assets/1c7a8be3-0054-4b38-8cea-3839eabe2e5d)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
+#### Output2 
+![Screenshot (22)fi](https://github.com/user-attachments/assets/c7935484-2c3d-4ade-85dd-b5ac84b22132)
+
+
+Training Accuracy: 90.5%
+Testing Accuracy: 88.7%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
+This project successfully demonstrates the ability to predict land prices using regression models, enabling data-driven decisions in the real estate domain. By providing realistic pricing insights, it benefits a wide range of stakeholders, including buyers, investors, and developers. The model's scalability and adaptability make it a valuable tool for future advancements in real estate analytics.
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. S. Patel, A. Mishra, and P. Gupta, “Real Estate Valuation Using Machine Learning Techniques,” Int. J. Data Sci., vol. 12, pp. 234-245, 2023.
+2. B. Sharma and K. Kumar, “Application of Regression in Predictive Analytics for Land Pricing,” Proc. Natl. Conf. AI, vol. 5, 2022.
+
+
+
+
 
 
 
